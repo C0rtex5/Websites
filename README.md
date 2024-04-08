@@ -25,5 +25,20 @@ And also in the long run, being able to understand the basics about C++, C, pyth
 - **Module 5: Databases and SQL**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-5)
 
-  - **Module 5: Databases and SQL**
-  - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-5)
+- **Module 6: Databases and SQL**
+  - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-6)
+
+- **Module 7: Databases and SQL**
+  - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-7)
+
+- **Module 8: Databases and SQL**
+  - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-8)
+
+- **Module 9: Databases and SQL**
+  - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-9)
+
+- **Module 10: Databases and SQL**
+  - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-10)
+
+- **Module 11: Databases and SQL**
+  - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-11)
