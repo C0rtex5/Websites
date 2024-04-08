@@ -42,3 +42,10 @@ And also in the long run, being able to understand the basics of C++, C, python,
 
 - **Module 11: SQL Basics**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-11)
+
+## Year 2: Improving the networking, developing, programing and using AI for coding, and frist work experience exposure.
+
+ <p>
+During my second year in Programming and Computer Science, I realized that a huge challenge was on the horizon: the internship. It was a period of deepening and expanding my technical skills, especially in networking, software development, advanced programming, and the application of Artificial Intelligence (AI) in coding. Furthermore, I had the opportunity to dive into the professional world, gaining my first work experience in the field. My Achilles' heel was my lack of personal planning and soft skills.
+But I wasn't falling for ruin, instead, for improvement and greatness.
+</p
