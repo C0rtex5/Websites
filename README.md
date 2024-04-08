@@ -19,26 +19,26 @@ And also in the long run, being able to understand the basics about C++, C, pyth
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-2)
 - **Module 3: Networking and conexions**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-3)
-- **Module 4: Databases and SQL**
+- **Module 4: File Conversion**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-4)
 
-- **Module 5: Databases and SQL**
+- **Module 5: OS analysis**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-5)
 
-- **Module 6: Databases and SQL**
+- **Module 6: Blender deep diving**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-6)
 
-- **Module 7: Databases and SQL**
+- **Module 7: Programming Methods**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-7)
 
-- **Module 8: Databases and SQL**
+- **Module 8: Python for Blender**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-8)
 
-- **Module 9: Databases and SQL**
+- **Module 9: C and C++**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-9)
 
-- **Module 10: Databases and SQL**
+- **Module 10: Python Basics**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-10)
 
-- **Module 11: Databases and SQL**
+- **Module 11: SQL Basics**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-11)
