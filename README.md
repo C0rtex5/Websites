@@ -1,4 +1,4 @@
-# Welcome to My Programming ad Technology Journey!😀
+# Welcome to my Programming and Technology course journey!😀
 <p>
 This README provides a condensed overview of my academic journey and ongoing projects for my 3 years of dedication for my course. Here, you'll find the history about the modules studied, projects developed, and skills acquired at each stage of this exciting journey.
 Also the links for my Github repositories are provided.
