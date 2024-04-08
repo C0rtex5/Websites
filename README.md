@@ -42,3 +42,9 @@ And also in the long run, being able to understand the basics about C++, C, pyth
 
 - **Module 11: SQL Basics**
   - [![Linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://github.com/C0rtex5/Module-11)
+
+  ## Year 2: Improving the networking, developing, programing and using AI for coding, and frist work experience exposure.
+
+ <p>
+ 
+</p
